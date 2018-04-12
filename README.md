@@ -2,7 +2,7 @@
 
 This repository contains the most important scripts (written in R and bash) used to create data and figures for the Horvath et al. 2018 manuscript.
 
-**Collaborative transcription factor cistromes predict chromatin accessibility and identify labeled enhancers controlling macrophage polarization
+# Collaborative transcription factor cistromes predict chromatin accessibility and identify labeled enhancers controlling macrophage polarization
 
 Attila Horvath1,3,8, Lajos Szeles1,8, Bence Daniel2,8, Laszlo Steiner5, Zsolt Czimmerer1, Ixchelt Cuaranta-Monroy1, Nikolas Giannakis5, Mate Kiss1, Lilla Ozgyin1, Zoltan Simandi2,  Szilard Poliska1,5, Emanuele Raineri6,7, Ivo G. Gut6,7, Benedek Nagy4 and Laszlo Nagy1,2,3,*
 
