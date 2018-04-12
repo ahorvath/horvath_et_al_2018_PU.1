@@ -27,18 +27,33 @@ Famagusta, North Cyprus, Mersin 10, Turkey
 
 
 *ATAC_0h_1h.R
+
 *ChIP-seq_anal-v1_9mm10_fast.sh
+
 *H4ac_0h_1h.R
+
 *STAT6_0h_1h.R
+
 *boxplot_Irf8_down.R
+
 *boxplot_Irf8_up.R
+
 *boxplot_PolII_S2_any_up.R
+
 *boxplot_PolII_S5_any_up.R
+
 *calculate_FPKM.sh
+
 *create_meta_hist_general.sh
+
 *diffbind_five_factor.R
+
 *donuts.R
+
 *randomForest_PU1_cistrome_openness_add.R
+
 *remap_motif_mscore.sh
+
 *spec_pie.R
+
 *tsv2venn.sh
