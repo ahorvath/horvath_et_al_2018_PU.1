@@ -24,6 +24,11 @@ Famagusta, North Cyprus, Mersin 10, Turkey
 
 *Correspondence: lnagy@sbpdiscovery.org
 
+ABSTRACT
+
+The emerging concept of tissue-specific gene expression posits that lineage-determining transcription factors (LDTFs) determine the enhancer repertoire making these genomic loci accessible to other transcription factors (TFs). However, the interrelationship and the guiding principles of LDTFs’ occupancy, chromatin accessibility and enhancer activity has not been systematically evaluated. We addressed this issue by integrating genome-wide technologies (ChIP-Seq, ATAC-Seq, GRO-Seq and mRNA-Seq) and computational approaches using murine bone marrow-derived macrophages as a model system. We found that only one third of the PU.1 (also known as SPI1) cistrome, an essential LDTF for macrophages, is associated with highly accessible chromatin. Using the Random Forest classifier, a machine learning method, we demonstrated that PU.1-related chromatin accessibility could be accurately predicted using only occupancy values of the main TFs of macrophages (PU.1, IRF8, JUNB, CEBPA and RUNX1), but not from PU.1 alone. These TFs contribute to chromatin accessibility and enhancer activation in a collaborative and hierarchical manner. Finally, we identified a novel class of regulatory regions (termed “labeled enhancers”), characterized as PU.1-bound, low accessible genomic regions in unstimulated cells, providing molecular beacons for the IL4-induced alternative polarization program. Collectively, our study demonstrates that combining epigenomic approaches and computational tools is an efficient strategy to identify the main determinants of chromatin openness and the inducible enhancer repertoire. 
+
+
 
 
 *ATAC_0h_1h.R
